@@ -23,9 +23,12 @@ email: your-email@example.com
 description:
   Actuary and data scientist contractor. R developer.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://fvr-actuary-ds.github.io/cv/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username:
+github_username: fvr-actuary-ds
+
+production_url : http://fvr-actuary-ds.github.io/cv
+BASE_PATH : http://fvr-actuary-ds.github.io/cv
 
 # Build settings
 # theme: minima

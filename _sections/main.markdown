@@ -15,9 +15,6 @@ Developement and implementation from scratch of Solvency II and risk
 management proceses with R, Shiny and Oracle. Improvement of the ORSA
 methodology and other related aspects of Solvency II.
 
-* hola
-* adeu
-
 `R` `Shiny` `Solvency II` `ORSA` `Oracle` `SQL` `Implementation` `Risk Management`
 
 #### Actuary and R Developer

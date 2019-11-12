@@ -20,10 +20,10 @@ methodology and other related aspects of Solvency II.
 #### Actuary and R Developer
 ##### Crèdit Andorrà (Andorra) **Oct 2014 – Apr 2019**
 
-SCR implementation and calculation in different insurance companies. Calculation
-of technical provisions and best estimates. Review of Market Consistent Embedded
-Value and Solvency II internal model results. Validation of market, life, non
-life and credit risk. Working together with customers as insurance advisor.
+SCR implementation and calculation in different insurance companies from scratch.
+ORSA management and production of scenarios and calculations. Pilar I process
+implementation with R and Oracle. Production of automatic reports. calculation
+of technical provisions, profit testing and pricing with GLM.
 
 `R` `Actuary` `Solvency II` `ORSA` `Implementation`
 `GLM` `Balance Sheet` `Technical Provisions` `QRT`

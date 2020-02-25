@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username: fvr-actuary-ds
 
-production_url : http://fvr-actuary-ds.github.io/
-BASE_PATH : http://fvr-actuary-ds.github.io/cv
+production_url : http://fvr-actuary-ds.github.io/cv
+BASE_PATH : http://fvr-actuary-ds.github.io/
 
 # Build settings
 # theme: minima

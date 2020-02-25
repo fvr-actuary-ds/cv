@@ -32,8 +32,8 @@ BASE_PATH : http://fvr-actuary-ds.github.io/cv
 
 # Build settings
 # theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+# - jekyll-feed
 collections:
 - sections
 

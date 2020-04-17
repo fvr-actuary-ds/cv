@@ -12,8 +12,9 @@ ___
 ##### Atradius (Amsterdam) **April 2019 - Now**
 
 Developement and implementation from scratch of Solvency II and risk
-management processes with R, Shiny and Oracle. Improvement of the ORSA
-methodology and other related aspects of Solvency II.
+management processes with R, Shiny and Oracle. Building dashboards for 
+tracking results and metrics. Improvement of the ORSA methodology and
+other related aspects of Solvency II.
 
 `R` `Shiny` `Solvency II` `ORSA` `Oracle` `SQL` `Implementation` `Risk Management`
 

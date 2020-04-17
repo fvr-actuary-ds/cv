@@ -12,7 +12,7 @@ ___
 ##### Atradius (Amsterdam) **April 2019 - Now**
 
 Developement and implementation from scratch of Solvency II and risk
-management proceses with R, Shiny and Oracle. Improvement of the ORSA
+management processes with R, Shiny and Oracle. Improvement of the ORSA
 methodology and other related aspects of Solvency II.
 
 `R` `Shiny` `Solvency II` `ORSA` `Oracle` `SQL` `Implementation` `Risk Management`
@@ -20,10 +20,12 @@ methodology and other related aspects of Solvency II.
 #### Actuary and R Developer
 ##### Crèdit Andorrà (Andorra) **Oct 2014 – Apr 2019**
 
-SCR implementation and calculation in different insurance companies from scratch.
-ORSA management and production of scenarios and calculations. Pilar I process
-implementation with R and Oracle. Production of automatic reports. calculation
-of technical provisions, profit testing and pricing with GLM.
+SCR implementation and calculation from scratch and design of the process to be used
+in order to reach the targets. Best Estimate and Risk Margin Calculation in the 
+Solvency II framework. ORSA implementation and management. Balance sheet projections. 
+Pilar I process implementation with R and Oracle and introducing R in the company. 
+Creation of automatic reports for the solvency process, calculation of technical provisions, 
+profit testing and pricing with GLM.
 
 `R` `Actuary` `Solvency II` `ORSA` `Implementation`
 `GLM` `Balance Sheet` `Technical Provisions` `QRT`
@@ -39,9 +41,9 @@ life and credit risk. Working together with customers as insurance advisor.
 
 #### Senior Financial Services
 ##### KPMG (Barcelona) **Jan 2011 – Oct 2013**
-Review of Market Consistent Embedded Value and solvency II internal model
+Review of Market Consistent Embedded Value and Solvency II internal model
 results. Insurance company and pension funds audit and participation in due
-dilligence. Team management and organitzation.
+dilligence. Team management and organization.
 
 `Solvency II` `Audit` `Financial Statements` `MCEV` `Internal Models`
 
@@ -72,4 +74,4 @@ ___
 ###### Introduction to R from begginer to intermediate
 ###### Data manipulation and data bases with R
 ###### R graphs
-###### Introduction to predective modelling with R
+###### Introduction to predictive modelling with R

@@ -78,7 +78,7 @@ footer{
   -webkit-border-radius: 200px;
   border-radius: 200px;
   background-color: #fdc3bc;
-  background-image: url("profile.jpg");
+  background-image: url("profile.jpg"); 
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;

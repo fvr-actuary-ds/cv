@@ -85,6 +85,8 @@ footer{
   border-color: #fff;
   border-width:  thick;
   border-style: solid;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
 }
 
 .lev-right{

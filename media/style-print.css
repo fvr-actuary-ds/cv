@@ -326,3 +326,8 @@ p.five-stars::after{
     display:  block;
     page-break-after: always;
 }
+
+body { 
+  visibility: hidden; 
+  display: none;
+}

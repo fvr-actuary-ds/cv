@@ -9,10 +9,10 @@ include: sections/side.html
 ___
 R
 {:.five-stars}
+SQL
+{:.three-stars}
 Python
 {:.two-stars}
-Javascript
-{:.one-stars}
 HTML/CSS
 {:.four-stars}
 Excel

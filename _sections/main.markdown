@@ -47,7 +47,8 @@ results. Insurance company and pension funds audit and participation in due
 dilligence. Team management and organization.
 
 `Solvency II` `Audit` `Financial Statements` `MCEV` `Internal Models`
-{:.break-when-print}
+
+[comment]: <> ({:.break-when-print})
 
 #### Actuary Intership
 ##### Generali Group (Barcelona) **Sep 2007 – Apr 2008**

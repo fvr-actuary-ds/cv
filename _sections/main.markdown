@@ -66,7 +66,7 @@ ___
 #### First Degree in Economics **June 2007**
 ##### Universitat de Barcelona
 
-#### Master in NLP **June 2018**
+#### Master in NLP (Neuro-Linguistic Programming) **June 2018**
 ##### IL3, Universitat de Barcelona
 
 

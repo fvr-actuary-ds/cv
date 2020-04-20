@@ -22,7 +22,7 @@ title: Francesc Vallvé | Resume
 email: your-email@example.com
 description:
   Actuary and data scientist contractor. R developer.
-baseurl: "/cv" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fvr-actuary-ds.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
 github_username: fvr-actuary-ds

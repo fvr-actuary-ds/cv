@@ -327,8 +327,7 @@ p.five-stars::after{
     page-break-after: always;
 }
 
-/* body { 
+body { 
   visibility: hidden; 
   display: none;
 }
-*/

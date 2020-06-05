@@ -35,7 +35,11 @@ SCR implementation and calculation for different insurers. Calculation of techni
 Review of Market Consistent Embedded Value and Solvency II internal model results. Insurance company and pension funds audit and participation in due diligence. Team management and organisation.
 
 `Solvency II`  `Audit`  `Financial Statements`  `MCEV`  `Internal Models`
+
+<!---
 {:.break-when-print}
+-->
+
 
 #### Actuary Internship
 ##### Generali Group (Barcelona) **Sep 2007 – Apr 2008**

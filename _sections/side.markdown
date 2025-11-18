@@ -5,7 +5,7 @@ include: sections/side.html
 # Variables
 ---
 
-### Tech skills
+### Comp. tècniques
 ___
 R
 {:.five-stars}
@@ -16,26 +16,28 @@ Git
 Python
 {:.two-stars}
 Docker
-{:.one-stars}
+{:.three-stars}
+Jenkins
+{:.three-stars}
+AzureDevops
+{:.two-stars}
 HTML/CSS
 {:.four-stars}
 Excel
 {:.five-stars}
 
-### Language Skills
+### Llengües
 ___
-English
+Anglès
 {:.four-stars}
-Spanish
+Català
 {:.five-stars}
-Catalan
+Castellà
 {:.five-stars}
 
-### Information
+### Informació
 ___
 
-Fully qualified fellowship of Col·legi d’Actuaris de Catalunya (CAC) that is
-member of Actuarial Association of Europe (AAE) and International Actuarial
-Association (IAA).
+Membre de ple dret del Col·legi d’Actuaris de Catalunya (CAC), que forma part de l’Actuarial Association of Europe (AAE) i de la International Actuarial Association (IAA), així com membre del Col·legi d’Economistes d’Andorra.
 <br><br>
-Experience with companies like Atradius, Allianz, AXA or Aegon.
+Experiencia en companyies com Atradius, Allianz, AXA, Aegon o Crèdit Andorrà.

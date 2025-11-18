@@ -4,5 +4,5 @@ order: 1
 include: sections/head.html
 # Variables
 my_name: Francesc Vallvé Rodríguez
-my_short_description: Actuary and R developer
+my_short_description: Actuari i Desenvolupador
 ---
